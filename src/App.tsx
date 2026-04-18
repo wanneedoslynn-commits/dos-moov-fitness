@@ -618,19 +618,20 @@ export default function App() {
                 }}
               >
                 <img
-  src="/logo_dos.png"
-  alt="DOS Logo"
-  style={{
-    width: 68,
-    height: 68,
-    borderRadius: 20,
-    objectFit: 'contain',
-    background: 'white',
-    padding: 8,
-    boxShadow: '0 12px 28px rgba(0, 200, 83, 0.22)',
-    flexShrink: 0,
-  }}
-/>
+                  src="/logo_DOS.png"
+                  alt="DOS Logo"
+                  style={{
+                    width: 72,
+                    height: 72,
+                    borderRadius: 18,
+                    objectFit: 'contain',
+                    background: '#00A343',
+                    padding: 8,
+                    border: 'none',
+                    boxShadow: '0 14px 30px rgba(0,200,83,0.35)',
+                    flexShrink: 0,
+                  }}
+                  />
               </div>
   
               <div style={{ minWidth: 0 }}>
@@ -816,19 +817,20 @@ export default function App() {
                 }}
               >
                 <img
-  src="/logo_dos.png"
-  alt="DOS Logo"
-  style={{
-    width: 68,
-    height: 68,
-    borderRadius: 20,
-    objectFit: 'contain',
-    background: 'white',
-    padding: 8,
-    boxShadow: '0 12px 28px rgba(0, 200, 83, 0.22)',
-    flexShrink: 0,
-  }}
-/>
+                  src="/logo_DOS.png"
+                  alt="DOS Logo"
+                  style={{
+                    width: 72,
+                    height: 72,
+                    borderRadius: 18,
+                    objectFit: 'contain',
+                    background: '#00A343',
+                    padding: 8,
+                    border: 'none',
+                    boxShadow: '0 14px 30px rgba(0,200,83,0.35)',
+                    flexShrink: 0,
+                  }}
+                  />
               </div>
 
               <div>
